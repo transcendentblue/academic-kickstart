@@ -33,7 +33,5 @@ weight = 5
  
 +++
 
-# Biography
 
-I'm a PhD student at the Penn State Rock and Sediment Mechanics Lab. My research interests include mathematical and numerical modeling of rock and fluid mechanics, both at lab and crustal scales. I'm also interested in applying machine and deep learning algorithms to my research insofar as they can help unravel the physical mechanisms of the processes being modeled. I lead the Computer Users group, a graduate sudent commitee which works as a knowledge sharing group within the Geosciences department. Some of the topics we focus on include: Machine Learning for Geosciences, Data Visualization techniques, Programming best practices, etc.
 
