@@ -39,12 +39,20 @@ Despite many observations of such nonlinear softening of fault gauge, most of th
 References:
 
 [1] Emily E. Brodsky, Vassilis Karakostas, and Hiroo Kanamori. A new observation of dynami- cally triggered regional seismicity: Earthquakes in Greece following the August, 1999 Izmit, Turkey earthquake. Geophysical Research Letters, 27(17):2741–2744, 2000.
+
 [2] Thomas Brunet, Xiaoping Jia, and Paul A. Johnson. Transitional nonlinear elastic behaviour in dense granular media. Geophysical Research Letters, 35(19):2–5, 2008.
+
 [3] J. Gomberg, N. M. Beeler, M. L. Blanpied, and P. Bodin. Earthquake triggering by transient and static deformations. Journal of Geophysical Research: Solid Earth, 103(B10):24411– 24426, 1998.
+
 [4] Paul a. Johnson. A nonlinear mesoscopic elastic class of materials. AIP Conference Pro- ceedings, 524(2000):291–294, 2000.
+
 [5] Paul A. Johnson and Xiaoping Jia. Nonlinear dynamics, granular media and dynamic earthquake triggering. Nature, 437(7060):871–874, 2005.
+
 [6] Stephen A. Miller, Cristiano Collettini, Lauro Chiaraluce, Massimo Cocco, Massimiliano Barchi, and Boris J. P. Kaus. Aftershocks driven by a high-pressure CO2 source at depth. Nature, 427(6976):724–727, 2004.
-[7] G. Renaud, J. Rivi`ere, C. Larmat, J. T. Rutledge, R. C. Lee, R. A. Guyer, K. Stokoe, and P. A. Johnson. In situ characterization of shallow elastic nonlinear parameters with Dynamic Acoustoelastic Testing. Journal of Geophysical Research: Solid Earth, 119(9):6907–6923, 2014.
-[8] J. Rivi`ere, G. Renaud, R. A. Guyer, and P. A. Johnson. Pump and probe waves in dy- namic acousto-elasticity: Comprehensive description and comparison with nonlinear elastic theories. Journal of Applied Physics, 114(5):1–19, 2013.
+
+[7] G. Renaud, J. Rivi\`ere, C. Larmat, J. T. Rutledge, R. C. Lee, R. A. Guyer, K. Stokoe, and P. A. Johnson. In situ characterization of shallow elastic nonlinear parameters with Dynamic Acoustoelastic Testing. Journal of Geophysical Research: Solid Earth, 119(9):6907–6923, 2014.
+
+[8] J. Rivi\`ere, G. Renaud, R. A. Guyer, and P. A. Johnson. Pump and probe waves in dy- namic acousto-elasticity: Comprehensive description and comparison with nonlinear elastic theories. Journal of Applied Physics, 114(5):1–19, 2013.
+
 [9] Justin L. Rubinstein and Gregory C. Beroza. Depth constraints on nonlinear strong ground motion from the 2004 Parkfield earthquake. Geophysical Research Letters, 32(14):1–5, 2005.
 
