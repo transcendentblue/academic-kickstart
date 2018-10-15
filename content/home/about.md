@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Geosciences"
   institution = "Penn State University"
-  year = In progress
+  year = 2018
 
 [[education.courses]]
   course = "BS in Applied Mathematics"
