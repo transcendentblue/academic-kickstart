@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Rock and Fluid Mechanics",
+    "Mathematical and Numerical Modeling",
+    "Deep Learning",
+    "Blockchain Technology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Geosciences"
+  institution = "Penn State University"
+  year = In progress
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BS in Applied Mathematics"
+  institution = "Southern Methodist University"
+  year = 2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Geophysics"
+  institution = "Southern Methodist University"
+  year = 2017
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student at the Penn State Rock and Sediment Mechanics Lab. My research interests include mathematical and numerical modeling of rock and fluid mechanics, both at lab and crustal scales. I'm also interested in applying machine and deep learning algorithms to my research insofar as they can help unravel the physical mechanisms of the processes being modeled. I lead the Computer Users group, a graduate sudent commitee which works as a knowledge sharing group within the Geosciences department. Some of the topics we focus on include: Machine Learning for Geosciences, Data Visualization techniques, Programming best practices, etc.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
