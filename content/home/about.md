@@ -12,8 +12,7 @@ weight = 5
   interests = [
     "Rock and Fluid Mechanics",
     "Mathematical and Numerical Modeling",
-    "Deep Learning",
-    "Blockchain Technology"
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
