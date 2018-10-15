@@ -34,7 +34,7 @@ weight = 7
   description = "20%"  
   
 [[feature]]
-  icon = "lambda"
+  icon = "infinity"
   icon_pack = "fas"
   name = "Haskell"
   description = "1%"
