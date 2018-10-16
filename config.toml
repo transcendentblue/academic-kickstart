@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "Penn State University", url = "https://www.geosc.psu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "static/img/naosei"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "files/naosei.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "dorivaldo4321@gmail.com"
